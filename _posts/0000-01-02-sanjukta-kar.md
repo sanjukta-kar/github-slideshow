@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Learning to 
+>respond to review!
 Use the left arrow to go back!
